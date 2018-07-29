@@ -1,6 +1,5 @@
 print ('sss')
 
 ddd
-<<<<<<< HEAD
 
 fffffffff
